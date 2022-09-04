@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620524653613",
+    "project_id": "tagie-24748",
+    "storage_bucket": "tagie-24748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620524653613:android:886eeb733dcf13ba183ca4",
+        "android_client_info": {
+          "package_name": "com.example.tagie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620524653613-qed0vcmb57gfk1n8d7r892vsargviuhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEMczwpXy9Pa0VefoGyeLYjR0biHX0LVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620524653613-qed0vcmb57gfk1n8d7r892vsargviuhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
